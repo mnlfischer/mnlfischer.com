@@ -3,7 +3,7 @@ title: Markdown Examples
 date: 2021/3/19
 description: View examples of all possible Markdown options.
 tag: web development
-author: You
+author: Manuel Fischer
 ---
 
 # Markdown Examples
@@ -94,6 +94,6 @@ export default function Nextra({ Component, pageProps }) {
 
 [^1]: Footnote **can have markup**
 
-  and multiple paragraphs.
+and multiple paragraphs.
 
 [^2]: Footnote text.
